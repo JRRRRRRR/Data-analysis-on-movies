@@ -18,10 +18,14 @@ After reviewing the dataset, I make a plan for this problem.
     * Find the most runtime range from top revenue movies
     * Comparing and Summary
 * I will tell the company which genre, which budget and which runtime will be best for a movie with an expected revenue.
- # Technics
+# Technics
 * Data collecting, Data cleaning, Exploratory data analysis, and Visualization are all in the jupyter Notebook.
 * A powerpoint all pdf for presentation
 * A 5 minutes recording to review
+* https://youtu.be/XeUthfAOI2k
+# Future Work
+* If I have more time, I will dig the studio date.
+* I will find the best studio by showing the average rating and revenue of all their movies.
 # Summary
 It is a nice experience to handle all the procedures meslef. Also, I learned a lot knowledge from movies, not only just watching movies.
 All the data analysis give the company a review of movie industry. At last, I make some recommations for them. 

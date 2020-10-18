@@ -23,6 +23,7 @@ After reviewing the dataset, I make a plan for this problem.
 * A PowerPoint all pdf for presentation
 * A 5 minutes recording to review
 * https://youtu.be/XeUthfAOI2k
+* https://road2dataanalyst.blogspot.com/2020/10/data-analysis-on-movies.html
 # Future Work
 * If I have more time, I will dig the studio date.
 * I will find the best studio by showing the average rating and revenue of all their movies.

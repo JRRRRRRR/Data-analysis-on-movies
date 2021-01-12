@@ -1,4 +1,4 @@
-# Phase-1-Project
+# Data analysis on movies
 Data analysis on movies
 # Introduction
 Using the knowledge and skills we learned in phase 1 to analyze the movies' data. Below is the Business description:
